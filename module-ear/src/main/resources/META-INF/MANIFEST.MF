@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: (properties) MODULE-EAR
+Major-Version: 1.0.0
+Archiver-Version: Plexus Archiver
+Built-By: alexandr
+Build-Time: Wed Sep 12 16:27:14 EEST 2018
+Build-OS: linux
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_181

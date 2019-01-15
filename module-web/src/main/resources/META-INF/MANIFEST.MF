@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: (properties) MODULE-WEB
+Major-Version: 1.0.0
+Build-Number: 99
+Archiver-Version: Plexus Archiver
+Built-By: alexandr
+Build-Time: Wed Sep 12 16:27:14 EEST 2018
+Build-OS: linux
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_181
